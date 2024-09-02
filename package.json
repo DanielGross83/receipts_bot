@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DanielGross83/receipts_bot/issues"
   },
-  "homepage": "https://github.com/DanielGross83/receipts_bot#readme"
+  "homepage": "https://github.com/DanielGross83/receipts_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
 }
